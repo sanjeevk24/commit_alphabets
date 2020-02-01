@@ -1,5 +1,7 @@
 # commit_alphabets
 A python script for writing messages on GitHub's contribution dashboard.
+
+# How to create a repository for displaying messages on github contribution dashboard: 
 - Create a test repo with words you want to write in dummy repository.
     ```
     python3 -m commit_alphabets \
